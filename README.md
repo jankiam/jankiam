@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👩‍💻 ISTQB certified QA transtioning to Business Intelligence   
+👩‍💻 ISTQB certified QA transitioning to Business Intelligence   
 
 🚀 Google certified Business Intelligence Professional.  
 
@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning Python.  
 
-⚡ Fun fact - I love to pay attention to details :)  
+⚡ Fun fact - I love paying attention to details! 😊
 
 
 # 💻 Skills:
