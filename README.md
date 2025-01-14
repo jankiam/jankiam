@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👩‍💻 ISTQB certified QA transitioning to Business Intelligence   
+👩‍💻 ISTQB certified QA   
 
 🚀 Google certified Business Intelligence Professional.  
 
