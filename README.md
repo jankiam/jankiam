@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👩‍💻 ISTQB certified QA   
+👩‍💻 Business Analyst
 
 🚀 Google certified Business Intelligence Professional.  
 
